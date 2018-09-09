@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+*.pyc
+__pycache__
+output
+output_tmp
+data
