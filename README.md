@@ -1,4 +1,4 @@
-# To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach
+# Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation
 
 ## Requirements
 - python3
